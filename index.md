@@ -2,7 +2,7 @@
 
 Getting stories from data: digging to publication
 
-This module requires some ease with Excel, numbers, statistics, charts (via ?) and data sources.
+This module assumes some familiarity with spreadsheets, numbers, charts and data sources.
 
 ## Learning (4h)
 
@@ -13,3 +13,11 @@ This module requires some ease with Excel, numbers, statistics, charts (via ?) a
 
 
 ## Resources
+
+- Summary of live workshop (after)
+- [Google drive](https://bit.ly/app_data_jomec)
+
+---
+[About this resource](https://aodhanlutetiae.github.io/dj_prod/about)
+
+[Get in touch](mailto:odonnella4@cardiff.ac.uk)
