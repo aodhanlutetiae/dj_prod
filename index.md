@@ -11,7 +11,7 @@ Getting stories from data, from digging to publication. This module assumes some
   - [Resource: ONS scraping policy](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy)
   - [Resource: Ethical web scraping checklist](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy)
 
-- [TASK: Finish a datawrapper map of homeworking (video)](https://aodhanlutetiae.github.io/dj_prod/monitoring)
+- [TASK: Finish a datawrapper map of homeworking (video)](https://www.youtube.com/channel/UC-khdaLd7Yg-I55xQz3qx8g)
 
 ## Practice / portfolio
 
