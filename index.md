@@ -11,6 +11,7 @@ Getting stories from data, from digging to publication. This module assumes some
   - [Resource: ONS scraping policy](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy)
   - [Resource: Ethical web scraping checklist](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy)
 
+- [TASK: Finish a datawrapper map of homeworking (video)](https://aodhanlutetiae.github.io/dj_prod/monitoring)
 
 ## Practice / portfolio
 
@@ -21,6 +22,8 @@ Getting stories from data, from digging to publication. This module assumes some
 - [Heathrow noise complaint reports](https://www.heathrow.com/company/local-community/noise/noise-reports-and-statistics/reports)
 - [Air quality data](https://uk-air.defra.gov.uk/data/data_selector_service)
 - [Register of geographic codes (UK)](https://geoportal.statistics.gov.uk/datasets/register-of-geographic-codes-june-2020-for-the-united-kingdom-v2/about)
+- [Homeworking in Great Britain in 2020](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
+- [BBC dentistry story data: England CCG](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BBC-Data-Unit/NHS_dentists/blob/main/england_ccg_wide.csv) & [England Regions](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BBC-Data-Unit/NHS_dentists/blob/main/england_region_wide.csv)
 
 - Summary of live workshop (after)
 - [Google drive](https://bit.ly/app_data_jomec)
