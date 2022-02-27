@@ -1,18 +1,18 @@
 ## Module Two: Producing journalism with data
 
-How do we get stories from data, from digging to publication? This module assumes some familiarity with spreadsheets, numbers, charts and data sources.
+Getting stories from data, from digging to publication. This module assumes some familiarity with spreadsheets, numbers, charts and data sources.
 
 ## Learning
+
+- [TASK: Try out two monitoring services](https://aodhanlutetiae.github.io/dj_prod/monitoring)
 
 - [TASK: Find a site to be scraped](https://forms.gle/8sDZY6YhumAuVQgCA)
   - [Resource: Why web scraping is vital to democracy. The Markup. GIJN](https://gijn.org/2020/12/17/why-web-scraping-is-vital-to-democracy/)
   - [Resource: ONS scraping policy](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy)
   - [Resource: Ethical web scraping checklist](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy)
 
-- [TASK: Use two monitoring tools](https://aodhanlutetiae.github.io/dj_prod/monitoring)
 
-
-## Practice & portfolio (8h + 8h)
+## Practice / portfolio
 
 
 ## Sources from workshop 1
