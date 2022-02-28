@@ -24,7 +24,7 @@ Getting stories from data, from digging to publication. This module assumes some
 - [Air quality data](https://uk-air.defra.gov.uk/data/data_selector_service)
 - [Register of geographic codes (UK)](https://geoportal.statistics.gov.uk/datasets/register-of-geographic-codes-june-2020-for-the-united-kingdom-v2/about)
 - [Homeworking in Great Britain in 2020](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
-- [BBC dentistry story data: England CCG](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BBC-Data-Unit/NHS_dentists/blob/main/england_ccg_wide.csv) & [England Regions](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BBC-Data-Unit/NHS_dentists/blob/main/england_region_wide.csv)
+- [BBC dentistry story data: England CCG & England Regions](https://docs.google.com/spreadsheets/d/1V6B1FnZdeMZQZQ-oFhh2l_lbTnbAlBufCidPS5hBEvc/edit#gid=0)
 
 - Summary of live workshop (after)
 - [Google drive](https://bit.ly/app_data_jomec)
