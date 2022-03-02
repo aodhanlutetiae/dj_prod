@@ -8,7 +8,17 @@ Visit the [ONS dataset release calendar](https://www.ons.gov.uk/releasecalendar?
 
 - Find an earlier version of it to see what it might contain once it arrives
 
+- Put the date in your diary
 
-Visit the [UK GOV release calendar for data](https://www.gov.uk/search/research-and-statistics?content_store_document_type=upcoming_statistics&order=updated-newest)
+- Evaluate it on release
 
-- Filter for Ofsted
+
+Visit the [UK GOV release calendar for data](https://www.gov.uk/search/research-and-statistics)
+
+- Filter for Upcoming
+
+- Filter for an Organisation (multiple are treated as OR)
+
+- Identify a March release and put the date in your diary
+
+- Evaluate it on release
