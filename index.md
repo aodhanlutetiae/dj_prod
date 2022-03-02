@@ -8,7 +8,7 @@ Getting stories from data, from digging to publication. This module assumes some
 - [Heathrow noise complaint reports](https://www.heathrow.com/company/local-community/noise/noise-reports-and-statistics/reports)
 - [Air quality data](https://uk-air.defra.gov.uk/data/data_selector_service)
 - [Homeworking in Great Britain in 2020](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
-- [Register of geographic codes (UK)](https://geoportal.statistics.gov.uk/datasets/register-of-geographic-codes-june-2020-for-the-united-kingdom-v2/about)
+- [Register of geographic codes (UK)](https://geoportal.statistics.gov.uk/datasets/ons::register-of-geographic-codes-december-2021-for-the-united-kingdom/about)
 - [BBC dentistry story data: England CCG & England Regions](https://docs.google.com/spreadsheets/d/1V6B1FnZdeMZQZQ-oFhh2l_lbTnbAlBufCidPS5hBEvc/edit#gid=0)
 
 
@@ -31,12 +31,10 @@ Getting stories from data, from digging to publication. This module assumes some
 
 - [Production assignment](https://aodhanlutetiae.github.io/dj_prod/assign)
 
-
-
+---
 - Summary of live workshop (after)
 - [Google drive](https://bit.ly/app_data_jomec)
 
----
 [About this resource](https://aodhanlutetiae.github.io/dj_prod/about)
 
 [Get in touch](mailto:odonnella4@cardiff.ac.uk)
