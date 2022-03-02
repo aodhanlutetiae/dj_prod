@@ -20,7 +20,7 @@ Getting stories from data, from digging to publication. This module assumes some
 ## Sourcing work from workshop 1
 - [Searching with Google](https://aodhanlutetiae.github.io/dj_prod/search)
 - [Digging for data](https://aodhanlutetiae.github.io/dj_prod/digging)
-- [Paul Bradshaw's empathy networks - also for data?](https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas/)
+- [Paul Bradshaw's blogpost on empathy networks](https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas/) & [network](https://embed.kumu.io/26bbfe70841ed0e18347b4578fa82347#homelessness)
 - From one of Heathrow, Air quality, Homeworking, Dentistry: list the interview wishlist
 
 ## Learning
@@ -36,10 +36,10 @@ Getting stories from data, from digging to publication. This module assumes some
 - [Production assignment](https://aodhanlutetiae.github.io/dj_prod/assign)
 
 ---
+## Resources
 - Summary of live workshops (after)
 - [Datasets by topic (Jomec)](https://aodhanlutetiae.github.io/j_book/intro.html)
 - [Google drive](https://bit.ly/app_data_jomec)
 
 [About this resource](https://aodhanlutetiae.github.io/dj_prod/about)
-
 [Get in touch](mailto:odonnella4@cardiff.ac.uk)
