@@ -1,4 +1,4 @@
-##Dentistry (BBC)
+## Dentistry (BBC)
 
 - [Dentistry story, Jan 2022](https://www.bbc.co.uk/news/uk-59874320)
 

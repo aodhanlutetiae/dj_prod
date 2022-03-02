@@ -19,14 +19,14 @@
 - Countries
 
 **England only**
-— Electoral wards
-— NHS Clinical Commissioning groups
-— NHS Regions
+- Electoral wards
+- NHS Clinical Commissioning groups
+- NHS Regions
+
+**Produce**
 
 - What geographies are available on [datawrapper](https://datawrapper.de/)?
-
 - Download the ONS data on [homeworking in 2020](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
-
 - Check the dataset's notes and data quality
 - Clean and save just the Never column from the data columns
 - Import into datawrapper using the 2019 local authorities geography

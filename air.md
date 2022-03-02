@@ -1,4 +1,4 @@
-## Air quality in Birmingham
+## Air quality in Birmingham
 
 **Getting the data**
 
@@ -17,7 +17,7 @@ Go to [Air quality DEFRA](https://uk-air.defra.gov.uk/data/data_selector_service
 
 - Clean / Organise
 - What is it?
-- What is g/m3 ?
+- What is mu-g/m3 ?
 - What is NO2 ?
 
 **Data collection**
@@ -33,5 +33,5 @@ Go to [Air quality DEFRA](https://uk-air.defra.gov.uk/data/data_selector_service
 **Analysis**
 
 - What have we got? What can we ask?
-- Where is the air quality worst from the four sites, on average over the period? 
+- Where is the air quality worst from the four sites, on average over the period?
 - Which month has the worst air quality over the period?

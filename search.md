@@ -17,6 +17,8 @@ AND
 
 Google search calendar
 
+---
+
 **Examples**
 
 - Find an excel file showing suppliers used by Network Rail

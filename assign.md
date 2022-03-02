@@ -24,4 +24,4 @@ The second is to analyse the data for a newsworthy observation.
 
 This is what will take time: finding the data, and then finding the newsline. From that you write the opening par (or 2 pars), build a chart shows the reader something and add a wish list of potential interviewees.
 
-To ensure that all this work is visible in the portfolio, keep an account of what you do and of what works and what doesn't. In a worst-case scenario where you have little to show despite a lot of effort, your account of your effort will demonstrate the work you've done.
+To ensure that all this work is visible in the portfolio, keep an account of what you do and of what works and what doesn't. In a worst-case scenario where you have little to show despite a lot of effort, your account will demonstrate the work you've done.
