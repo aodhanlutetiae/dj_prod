@@ -1,13 +1,9 @@
-Dentistry (BBC)
+##Dentistry (BBC)
 
-https://www.bbc.co.uk/news/uk-59874320
+- [Dentistry story, Jan 2022](https://www.bbc.co.uk/news/uk-59874320)
 
-Overall repository
-https://github.com/BBC-Data-Unit/NHS_dentists
-England ccg
-England region
+- [Overall repository, SDU](https://github.com/BBC-Data-Unit/NHS_dentists)
 
-Includes the data:
-https://docs.google.com/spreadsheets/d/1V6B1FnZdeMZQZQ-oFhh2l_lbTnbAlBufCidPS5hBEvc/edit#gid=0
+- [The data](https://docs.google.com/spreadsheets/d/1V6B1FnZdeMZQZQ-oFhh2l_lbTnbAlBufCidPS5hBEvc/edit#gid=0)
 
-Write three lines of copy for your area.
+- Task: Write three lines of copy for your area
