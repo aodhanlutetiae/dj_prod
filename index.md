@@ -22,14 +22,14 @@ Getting stories from data, from digging to publication. This module assumes some
 ## Learning
 
 - [TASK: Try out two monitoring services](https://aodhanlutetiae.github.io/dj_prod/monitoring)
-- [TASK: Finish a datawrapper map of homeworking (video)](https://www.youtube.com/channel/UC-khdaLd7Yg-I55xQz3qx8g)
 - [TASK: Find a site to be scraped](https://forms.gle/8sDZY6YhumAuVQgCA)
   - [Read: Why web scraping is vital to democracy. The Markup. GIJN](https://gijn.org/2020/12/17/why-web-scraping-is-vital-to-democracy/)
   - [Read: ONS scraping policy](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy)
-
+- [TASK: Finish a datawrapper map of homeworking (video)](https://www.youtube.com/channel/UC-khdaLd7Yg-I55xQz3qx8g)
 
 ## Practice
 
+- [Production assignment](https://aodhanlutetiae.github.io/dj_prod/assign)
 
 
 
