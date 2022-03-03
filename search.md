@@ -4,14 +4,14 @@
 
 **Essential operators**
 
-“exact phrase”
-\* wildcard
-filetype:
-site:
-\- excluding
-inurl/allinurl
-OR
-AND
+- “exact phrase”
+- \* wildcard
+- filetype:
+- site:
+-  \- excluding
+- inurl/allinurl
+- OR
+- AND
 
 **Time**
 
