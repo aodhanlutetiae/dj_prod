@@ -11,7 +11,7 @@ Produce the skeleton of a story:
 
 Deadline 1: Monday March 14th. Email (Aidan) a link to the data, and a one-line summary of the story or line being pursued
 
-Deadline 2: See Cambridge Spark module assignment deadline
+Deadline 2: March 30
 
 ---
 **How do I do this?**
