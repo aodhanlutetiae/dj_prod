@@ -38,7 +38,8 @@ Getting stories from data, from digging to publication. This module assumes some
 
 ---
 ## Resources
-- Summary of live workshops (after)
+
+- [Summary of live workshop](workshop_one_summary.pdf)
 - [Datasets by topic (Jomec)](https://aodhanlutetiae.github.io/j_book/intro.html)
 - [Google drive](https://bit.ly/app_data_jomec)
 
