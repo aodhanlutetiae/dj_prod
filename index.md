@@ -11,6 +11,8 @@ Getting stories from data, from digging to publication. This module assumes some
 - [Register of geographic codes (UK)](https://geoportal.statistics.gov.uk/datasets/ons::register-of-geographic-codes-december-2021-for-the-united-kingdom/about)
 
 ## Story work from workshop 1
+- UK Sanctions: How many records this month and last month for Russian people / entities?
+- Energy performance: What questions can we ask these variables for a single postcode?
 - [Heathrow noise today](https://aodhanlutetiae.github.io/dj_prod/heathrow)
 - [Birmingham air quality](https://aodhanlutetiae.github.io/dj_prod/air)
 - [Homeworking and geography](https://aodhanlutetiae.github.io/dj_prod/uk_geo_home)
