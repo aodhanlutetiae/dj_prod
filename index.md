@@ -9,20 +9,14 @@ Getting stories from data, from digging to publication. This module assumes some
 - [Air quality data](https://uk-air.defra.gov.uk/data/data_selector_service)
 - [Homeworking in Great Britain in 2020](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
 - [Register of geographic codes (UK)](https://geoportal.statistics.gov.uk/datasets/ons::register-of-geographic-codes-december-2021-for-the-united-kingdom/about)
-<!-- - [Dentistry story data (BBC)](https://docs.google.com/spreadsheets/d/1V6B1FnZdeMZQZQ-oFhh2l_lbTnbAlBufCidPS5hBEvc/edit#gid=0) -->
 
 ## Story work from workshop 1
-<!-- - [Russia sanctions numbers](https://www.bbc.co.uk/news/60591547) -->
 - [Heathrow noise today](https://aodhanlutetiae.github.io/dj_prod/heathrow)
 - [Birmingham air quality](https://aodhanlutetiae.github.io/dj_prod/air)
 - [Homeworking and geography](https://aodhanlutetiae.github.io/dj_prod/uk_geo_home)
-<!-- - [Dentistry](https://aodhanlutetiae.github.io/dj_prod/dentistry) -->
 
 ## Sourcing work from workshop 1
 - [Searching with Google](https://aodhanlutetiae.github.io/dj_prod/search)
-<!-- - [Digging for data](https://aodhanlutetiae.github.io/dj_prod/digging)
-- [Paul Bradshaw's blogpost on empathy networks](https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas/) & his example of a [network](https://embed.kumu.io/26bbfe70841ed0e18347b4578fa82347#homelessness)
-- From one of Heathrow, Air quality, Homeworking, Dentistry: list the interview wishlist -->
 
 ## Learning
 
