@@ -9,9 +9,9 @@ Getting stories from data, from digging to publication. This module assumes some
 - [Air quality data](https://uk-air.defra.gov.uk/data/data_selector_service)
 - [Homeworking in Great Britain in 2020](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/13196homeworkingintheukbrokendownbyunitaryandlocalauthoritydistricts2020)
 - [Register of geographic codes (UK)](https://geoportal.statistics.gov.uk/datasets/ons::register-of-geographic-codes-december-2021-for-the-united-kingdom/about)
-<!-- - [Gender pay gap data by company](https://gender-pay-gap.service.gov.uk/viewing/download)
-- [Overseas companies that own property in England & Wales](https://use-land-property-data.service.gov.uk/datasets/ocod)
-- [Dentistry data](https://docs.google.com/spreadsheets/d/1V6B1FnZdeMZQZQ-oFhh2l_lbTnbAlBufCidPS5hBEvc/edit#gid=0) -->
+<!-- [Gender pay gap data by company](https://gender-pay-gap.service.gov.uk/viewing/download)
+[Overseas companies that own property in England & Wales](https://use-land-property-data.service.gov.uk/datasets/ocod)
+[Dentistry data](https://docs.google.com/spreadsheets/d/1V6B1FnZdeMZQZQ-oFhh2l_lbTnbAlBufCidPS5hBEvc/edit#gid=0) -->
 
 ## Story work from workshop 1
 - UK sanctions: How many records this month and last month for Russian people / entities?
@@ -19,13 +19,13 @@ Getting stories from data, from digging to publication. This module assumes some
 - [Heathrow noise today](https://aodhanlutetiae.github.io/dj_prod/heathrow)
 - [Birmingham air quality](https://aodhanlutetiae.github.io/dj_prod/air)
 - [Homeworking and geography](https://aodhanlutetiae.github.io/dj_prod/uk_geo_home)
-<!-- - Gender pay gap: Who are the companies with high / low gaps in your area?
-- Overseas companies that own property: Find top 10 countries (pivot table); filter pivot for your area
-- [Dentistry NHS](https://github.com/BBC-Data-Unit/NHS_dentists) -->
+<!-- Gender pay gap: Who are the companies with high / low gaps in your area?
+Overseas companies that own property: Find top 10 countries (pivot table); filter pivot for your area
+[Dentistry NHS](https://github.com/BBC-Data-Unit/NHS_dentists) -->
 
 ## Sourcing work from workshop 1
 - [Searching with Google](https://aodhanlutetiae.github.io/dj_prod/search)
-<!-- - [Digging for data](https://aodhanlutetiae.github.io/dj_prod/digging) -->
+<!-- [Digging for data](https://aodhanlutetiae.github.io/dj_prod/digging) -->
 
 ## Learning
 
@@ -33,7 +33,7 @@ Getting stories from data, from digging to publication. This module assumes some
 - [TASK: Find a site to be scraped](https://forms.gle/8sDZY6YhumAuVQgCA)
   - [Read: Why web scraping is vital to democracy. The Markup. GIJN](https://gijn.org/2020/12/17/why-web-scraping-is-vital-to-democracy/)
   - [Read: ONS scraping policy](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy)
-<!-- - [TASK: Finish homeworking map](https://www.youtube.com/watch?v=zG34qg_UlQg) -->
+<!-- [TASK: Finish homeworking map](https://www.youtube.com/watch?v=zG34qg_UlQg) -->
 
 
 ## Practice
