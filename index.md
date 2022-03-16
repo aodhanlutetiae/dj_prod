@@ -2,7 +2,7 @@
 
 Getting stories from data, from digging to publication. This module assumes some familiarity with spreadsheets, numbers, charts and data sources.
 
-## Data used in workshop 1
+## Data used in workshops
 - [UK sanctions list](https://www.gov.uk/government/publications/the-uk-sanctions-list)
 - [Energy performance in England & Wales](https://epc.opendatacommunities.org/domestic/search)
 - [Heathrow noise complaint reports](https://www.heathrow.com/company/local-community/noise/noise-reports-and-statistics/reports)
@@ -13,7 +13,7 @@ Getting stories from data, from digging to publication. This module assumes some
 [Overseas companies that own property in England & Wales](https://use-land-property-data.service.gov.uk/datasets/ocod)
 [Dentistry data](https://docs.google.com/spreadsheets/d/1V6B1FnZdeMZQZQ-oFhh2l_lbTnbAlBufCidPS5hBEvc/edit#gid=0) -->
 
-## Story work from workshop 1
+## Story work from workshops
 - UK sanctions: How many records this month and last month for Russian people / entities?
 - Energy performance: What questions can we ask these variables (here, for a single postcode)?
 - [Heathrow noise today](https://aodhanlutetiae.github.io/dj_prod/heathrow)
@@ -23,9 +23,9 @@ Getting stories from data, from digging to publication. This module assumes some
 Overseas companies that own property: Find top 10 countries (pivot table); filter pivot for your area
 [Dentistry NHS](https://github.com/BBC-Data-Unit/NHS_dentists) -->
 
-## Sourcing work from workshop 1
+## Sourcing work from workshops
 - [Searching with Google](https://aodhanlutetiae.github.io/dj_prod/search)
-<!-- [Digging for data](https://aodhanlutetiae.github.io/dj_prod/digging) -->
+<!-- [Searching registers for data](https://aodhanlutetiae.github.io/dj_prod/digging) -->
 
 ## Learning
 
@@ -33,7 +33,10 @@ Overseas companies that own property: Find top 10 countries (pivot table); filte
 - [TASK: Find a site to be scraped](https://forms.gle/8sDZY6YhumAuVQgCA)
   - [Read: Why web scraping is vital to democracy. The Markup. GIJN](https://gijn.org/2020/12/17/why-web-scraping-is-vital-to-democracy/)
   - [Read: ONS scraping policy](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy)
-<!-- [TASK: Finish homeworking map](https://www.youtube.com/watch?v=zG34qg_UlQg) -->
+<!-- [TASK: Finish homeworking map](https://www.youtube.com/watch?v=zG34qg_UlQg) | [Finished map](https://www.datawrapper.de/_/x2xwV/)
+[TASK: Review Paul Bradshaw's post on empathy(https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas/)
+AND [Plot the elements in your story as a network](https://kumu.io/)
+-->
 
 
 ## Practice
@@ -43,7 +46,8 @@ Overseas companies that own property: Find top 10 countries (pivot table); filte
 ---
 ## Resources
 
-- [Summary of live workshop](workshop_one_summary.pdf)
+- [Summary of live workshop 1](workshop_one_summary.pdf)
+- Summary of live workshop 2 - to come
 - [Datasets by topic (Jomec)](https://aodhanlutetiae.github.io/j_book/intro.html)
 - [Google drive](https://bit.ly/app_data_jomec)
 

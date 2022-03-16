@@ -5,7 +5,7 @@
 Produce the skeleton of a story:
 
 - one par
-- one chart
+- one chart (or map)
 - one interview wish list
 - one account
 
