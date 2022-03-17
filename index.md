@@ -19,13 +19,13 @@ Getting stories from data, from digging to publication. This module assumes some
 - [Heathrow noise today](https://aodhanlutetiae.github.io/dj_prod/heathrow)
 - [Birmingham air quality](https://aodhanlutetiae.github.io/dj_prod/air)
 - [Homeworking and geography](https://aodhanlutetiae.github.io/dj_prod/uk_geo_home)
-Gender pay gap: Who are the companies with high / low gaps in your area?
-Overseas companies that own property: Find top 10 countries (pivot table); filter pivot for your area
+- Gender pay gap: Who are the companies with high / low gaps in your area?
+- Overseas companies that own property: Find top 10 countries (pivot table); filter pivot for your area
 - [Mapping UK geography](https://aodhanlutetiae.github.io/dj_prod/uk_geo_home)
 
 ## Sourcing work from workshops
 - [Searching with Google](https://aodhanlutetiae.github.io/dj_prod/search)
-[Searching registers for data](https://aodhanlutetiae.github.io/dj_prod/digging)
+- [Searching registers for data](https://aodhanlutetiae.github.io/dj_prod/digging)
 
 ## Learning
 
@@ -48,7 +48,6 @@ Overseas companies that own property: Find top 10 countries (pivot table); filte
 - [Summary of live workshop 1](workshop_one_summary.pdf)
 - Summary of live workshop 2 - to come
 - [Datasets by topic (Jomec)](https://aodhanlutetiae.github.io/j_book/intro.html)
-- [Google drive](https://bit.ly/app_data_jomec)
 
 [About this resource](https://aodhanlutetiae.github.io/dj_prod/about)
 
