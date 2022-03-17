@@ -20,8 +20,7 @@ Getting stories from data, from digging to publication. This module assumes some
 - [Birmingham air quality](https://aodhanlutetiae.github.io/dj_prod/air)
 - [Homeworking and geography](https://aodhanlutetiae.github.io/dj_prod/uk_geo_home)
 - Gender pay gap: Who are the companies with high / low gaps in your area?
-- Overseas companies that own property: Find top 10 countries (pivot table); filter pivot for your area
-- [Mapping UK geography](https://aodhanlutetiae.github.io/dj_prod/uk_geo_home)
+- Overseas companies that own property: Find top 10 countries (pivot table); filter  for your area
 
 ## Sourcing work from workshops
 - [Searching with Google](https://aodhanlutetiae.github.io/dj_prod/search)
