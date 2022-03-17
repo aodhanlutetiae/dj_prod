@@ -12,7 +12,7 @@ Produce the skeleton of a story:
 
 Deadline 1: Monday March 14th. Email (Aidan) a link to the data, and a one-line summary of the story or line being pursued
 
-Deadline 2: March 30
+Deadline 2: March 30. File with Cambridge Spark (and email it to Aidan if you like)
 
 ---
 **How do I do this?**
