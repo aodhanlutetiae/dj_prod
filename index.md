@@ -45,7 +45,7 @@ Getting stories from data, from digging to publication. This module assumes some
 ## Resources
 
 - [Summary of live workshop 1](workshop_one_summary.pdf)
-- Summary of live workshop 2 - to come
+- [Summary of live workshop 2](workshop_two_summary.pdf)
 - [Datasets by topic (Jomec)](https://aodhanlutetiae.github.io/j_book/intro.html)
 
 [About this resource](https://aodhanlutetiae.github.io/dj_prod/about)
